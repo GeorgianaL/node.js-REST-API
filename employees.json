@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "firstName": "John",
+    "lastName": "Milles",
+    "department": "Financial"
+  },
+  {
+    "id": 2,
+    "firstName": "Marry",
+    "lastName": "Jones",
+    "department": "Marketing"
+  },
+  {
+    "id": 3,
+    "firstName": "Dave",
+    "lastName": "Watson",
+    "department": "Management"
+  },
+  {
+    "id": 4,
+    "firstName": "Hillary",
+    "lastName": "Duff",
+    "department": "HR"
+  }
+]
